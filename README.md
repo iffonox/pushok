@@ -1,6 +1,6 @@
 # Pushok
 
-[![PHP >= 8.8](https://img.shields.io/badge/php-%3E%3D%208.2-8892BF.svg?style=flat-square)](https://php.net/)
+[![PHP >= 8.2](https://img.shields.io/badge/php-%3E%3D%208.2-8892BF.svg?style=flat-square)](https://php.net/)
 [![Build Status][ico-travis]][link-travis]
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Total Downloads][ico-downloads]][link-downloads]
