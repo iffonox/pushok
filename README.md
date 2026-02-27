@@ -1,6 +1,6 @@
 # Pushok
 
-[![PHP >= 8.1](https://img.shields.io/badge/php-%3E%3D%208.1-8892BF.svg?style=flat-square)](https://php.net/)
+[![PHP >= 8.8](https://img.shields.io/badge/php-%3E%3D%208.2-8892BF.svg?style=flat-square)](https://php.net/)
 [![Build Status][ico-travis]][link-travis]
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Total Downloads][ico-downloads]][link-downloads]
@@ -24,7 +24,7 @@ Pushok is a simple PHP library for sending push notifications to APNs.
 
 ## Requirements
 
-* PHP >= 8.1
+* PHP >= 8.2
 * lib-curl >= 7.46.0 (with http/2 support enabled)
 * lib-openssl >= 1.0.2e 
 
